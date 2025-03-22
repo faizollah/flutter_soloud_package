@@ -1,6 +1,4 @@
-# Flutter SoLoud Audio: Professional Sound Effects & Music Implementation
-
-# Flutter SoLoud Audio Controller
+# Flutter SoLoud Audio: Professional Sound Effects & Music
 
 A complete implementation of professional audio capabilities for Flutter applications using the flutter_soloud plugin. This repository provides a production-ready audio controller that handles sound effects, background music, audio transitions, and effects filtering.
 
