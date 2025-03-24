@@ -14,7 +14,7 @@ A complete implementation of professional audio capabilities for Flutter applica
 
 ## Tutorial
 
-📺 **Check out the complete video tutorial**: [Flutter Audio Tutorial: Implement SoLoud for Professional Sound Effects & Music](YOUR_VIDEO_URL_HERE)
+📺 **Check out the complete video tutorial**: [Flutter Audio Tutorial: Implement SoLoud for Professional Sound Effects & Music](https://www.youtube.com/watch?v=zseCuPAM_9Q)
 
 In this detailed tutorial, I walk through every aspect of this implementation, explaining the architecture decisions and demonstrating how to use each feature in real Flutter applications.
 
